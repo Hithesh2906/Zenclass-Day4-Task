@@ -1,0 +1,44 @@
+let myResume={
+    "basics": {
+      "name": "HITHESH J M",
+      "email": "jmhitheshmanohar@gmail.com",
+      "phone": 7639772243,
+      "degree": "B.E",
+      "location": {
+        "address": "1/350K Veppanapalli Krishnagiri",
+        "postalCode": 635121,
+        "city": "Krishnagiri",
+        "state": "Tamilnadu",
+        "country": "India"
+      },
+      "profiles": [
+        {
+          
+          "github":"https://github.com/Hithesh2906"
+        }
+      ]
+    },
+    "education": [
+      {
+        "institution": "PMC",
+        "department": "Mechatronics",
+        "studyType": "fulltime",
+        "batch start year": 2015,
+        "batch end year": 2018,
+        "gpa": 6.5
+      }
+    ],
+    "skills": [
+      {
+        "Programming Languages": "Core Java,Python,Javascript",
+        "level": "beginer"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Kannada ,Telugu ,English, Tamil"
+      }
+    ]
+  }
+  console.log(myResume);
+  
